@@ -2,12 +2,13 @@
 
 - [Prof Matheus Jardim Bernardes](https://matheusjardimb.com/)
 - [Atitus.edu.br](https://atitus.edu.br/)
+- [Humberto Floriano](https://github.com/HumbertoFSilva)
 
 Exercícios de aula da disciplina de Pensamento Computacional.
 
 ## Sobre mim
 
---PREENCHER--
+Sou um Estudante de 18 anos, meus hobbies sao escrever, jogar e ir para a academia.
 
 ## DICAS:
 
@@ -57,3 +58,7 @@ Caso esteja usando o [Git](https://git-scm.com/), considere utilizar o pre-commi
 ```bash
 pre-commit install
 ```
+
+![Obrigado por Ler](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4TLADjj5085k1-5qe56jBqNjN5nop6zry1g&s)
+
+# Obrigado por Ler!
